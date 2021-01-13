@@ -1,0 +1,14 @@
+start /home/uslu/elements/Kit_imagenes/*
+Sun Aug 11 21:40:03 CDT 2019
+start /home/uslu/elements/Kit_imagenes/010 Vive tu verano en byou.png
+Sun Aug 11 21:56:15 CDT 2019
+Sun Aug 11 21:57:01 CDT 2019
+Stop /home/uslu/elements/Kit_imagenes/010 Vive tu verano en byou.png
+Lapso de tiempo entre anuncios
+start /home/uslu/elements/Kit_imagenes/011 movo.png
+Sun Aug 11 21:59:03 CDT 2019
+Sun Aug 11 21:59:49 CDT 2019
+Stop /home/uslu/elements/Kit_imagenes/011 movo.png
+Lapso de tiempo entre anuncios
+start /home/uslu/elements/Kit_imagenes/03 palomitas.png
+Sun Aug 11 22:01:50 CDT 2019
